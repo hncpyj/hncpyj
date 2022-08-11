@@ -1,10 +1,8 @@
-## 
+## Hi there I'm Wooah!
 
-💻 Software Engineer
-
-🧬 AI Technology Service Team
-
-📚 computer science & statistics 
+💻 Software Engineer</br>
+🧬 AI Technology Service Team</br>
+📚 computer science & statistics</br>
   
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hncpyj&layout=compact&theme=nightowl)
