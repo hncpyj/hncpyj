@@ -1,10 +1,12 @@
 <div align="center">
 
+💻 Software Engineer
+🧬 AI Technology Service Team
+📚 computer science & statistics 
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hncpyj&layout=compact&theme=nightowl) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hncpyj&show_icons=true&theme=nightowl)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hncpyj&show_icons=true&theme=nightowl)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hncpyj&layout=compact&theme=nightowl)
 
 
 <!--
