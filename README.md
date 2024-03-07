@@ -1,4 +1,4 @@
-## Hi there I'm Hailey!👋
+## Hi there I'm Ellie!👋
 
 💻 Software Engineer</br>
 🧬 AI Technology Service Team</br>
